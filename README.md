@@ -31,7 +31,8 @@ Sample	Best Accuracy	Best Kernel	Best Nu	Best Epsilon
 9	0.97	Poly	1.27	6.87
 10	0.92	Poly	0.34	5.50
 Convergence Graph
-graph
+![image](https://github.com/user-attachments/assets/e99bb998-3222-4714-b979-ca33028e7de0)
+
 
 Discussion
 From the above graph, we can conclude that the model is well trained and parameter have been optimized due to the less gap between training and cross-validation curve.
